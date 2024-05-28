@@ -1,0 +1,518 @@
+[{
+  "_id": {
+    "$oid": "662d50c76e02348eb4fe8d16"
+  },
+  "id": 1,
+  "name": "capricciosa",
+  "description": "A Capricciosa pizza is a traditional Italian pizza topped with tomato sauce, mozzarella cheese, ham, mushrooms, artichoke hearts, and sometimes olives or basil leaves. It's known for its delicious combination of flavors and textures, with the savory ham complementing the earthy mushrooms and tangy artichokes.",
+  "image": "/capricciosa.webp",
+  "priceSm": 9.99,
+  "priceMd": 10.99,
+  "priceLg": 11.99,
+  "toppings": [
+    {
+      "image": "/cherry.png",
+      "name": "cherry tomatoes",
+      "price": 2
+    },
+    {
+      "image": "/corn.png",
+      "name": "corn",
+      "price": 2
+    },
+    {
+      "image": "/fresh-tomatoes.png",
+      "name": "fresh tomatoes",
+      "price": 2
+    },
+    {
+      "image": "/jalapeno.png",
+      "name": "jalapeno",
+      "price": 2
+    },
+    {
+      "image": "/parmesan.png",
+      "name": "parmesan",
+      "price": 2
+    }
+  ]
+},
+{
+  "_id": {
+    "$oid": "662d50c76e02348eb4fe8d17"
+  },
+  "id": 2,
+  "name": "cheesy",
+  "description": "A cheesy pizza is a classic favorite topped generously with gooey, melted cheese. It's all about indulging in the rich, stretchy goodness of cheese, whether it's mozzarella, cheddar, provolone, or a blend of different cheeses. The simplicity of melted cheese on a crispy crust is a comfort food that satisfies any cheese lover's cravings.",
+  "image": "/cheesy.webp",
+  "priceSm": 10.99,
+  "priceMd": 11.99,
+  "priceLg": 12.99,
+  "toppings": [
+    {
+      "image": "/cherry.png",
+      "name": "cherry tomatoes",
+      "price": 2
+    },
+    {
+      "image": "/corn.png",
+      "name": "corn",
+      "price": 2
+    },
+    {
+      "image": "/fresh-tomatoes.png",
+      "name": "fresh tomatoes",
+      "price": 2
+    },
+    {
+      "image": "/jalapeno.png",
+      "name": "jalapeno",
+      "price": 2
+    },
+    {
+      "image": "/parmesan.png",
+      "name": "parmesan",
+      "price": 2
+    }
+  ]
+},
+{
+  "_id": {
+    "$oid": "66461034251da92761ca8fcc"
+  },
+  "id": 3,
+  "name": "hawaii",
+  "description": "Hawaiian pizza is a popular pizza variant featuring a unique combination of flavors. It typically consists of a classic pizza base topped with tomato sauce, cheese (usually mozzarella), ham, and pineapple chunks. The contrasting flavors of the sweet pineapple and savory ham create a delightful taste experience",
+  "image": "/hawaii.webp",
+  "priceSm": 10.99,
+  "priceMd": 11.99,
+  "priceLg": 12.99,
+  "toppings": [
+    {
+      "image": "/cherry.png",
+      "name": "cherry tomatoes",
+      "price": 2,
+      "_id": {
+        "$oid": "66461034251da92761ca8fcd"
+      }
+    },
+    {
+      "image": "/corn.png",
+      "name": "corn",
+      "price": 2,
+      "_id": {
+        "$oid": "66461034251da92761ca8fce"
+      }
+    },
+    {
+      "image": "/fresh-tomatoes.png",
+      "name": "fresh tomatoes",
+      "price": 2,
+      "_id": {
+        "$oid": "66461034251da92761ca8fcf"
+      }
+    },
+    {
+      "image": "/jalapeno.png",
+      "name": "jalapeno",
+      "price": 2,
+      "_id": {
+        "$oid": "66461034251da92761ca8fd0"
+      }
+    },
+    {
+      "image": "/parmesan.png",
+      "name": "parmesan",
+      "price": 2,
+      "_id": {
+        "$oid": "66461034251da92761ca8fd1"
+      }
+    }
+  ],
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6650e577720fe80126f46aa3"
+  },
+  "id": 4,
+  "name": "italian",
+  "description": "Italian pizza is a traditional dish originating from Italy, typically featuring a thin crust topped with tomato sauce, mozzarella cheese, and various ingredients such as fresh basil, tomatoes, mushrooms, olives, and cured meats like pepperoni or prosciutto.",
+  "image": "/italian.webp",
+  "priceSm": 11.99,
+  "priceMd": 12.99,
+  "priceLg": 13.99,
+  "toppings": [
+    {
+      "image": "/cherry.png",
+      "name": "cherry tomatoes",
+      "price": 2,
+      "_id": {
+        "$oid": "6650e577720fe80126f46aa4"
+      }
+    },
+    {
+      "image": "/corn.png",
+      "name": "corn",
+      "price": 2,
+      "_id": {
+        "$oid": "6650e577720fe80126f46aa5"
+      }
+    },
+    {
+      "image": "/fresh-tomatoes.png",
+      "name": "fresh tomatoes",
+      "price": 2,
+      "_id": {
+        "$oid": "6650e577720fe80126f46aa6"
+      }
+    },
+    {
+      "image": "/jalapeno.png",
+      "name": "jalapeno",
+      "price": 2,
+      "_id": {
+        "$oid": "6650e577720fe80126f46aa7"
+      }
+    },
+    {
+      "image": "/parmesan.png",
+      "name": "parmesan",
+      "price": 2,
+      "_id": {
+        "$oid": "6650e577720fe80126f46aa8"
+      }
+    }
+  ],
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6650e5f6720fe80126f46afe"
+  },
+  "id": 5,
+  "name": "margherita",
+  "description": "Margherita pizza is a classic Italian pizza topped with tomato sauce, fresh mozzarella cheese, basil leaves, and a drizzle of olive oil. It's known for its simplicity and traditional flavors, representing the colors of the Italian flag with red tomatoes, white mozzarella, and green basil.",
+  "image": "/margherita.webp",
+  "priceSm": 9.99,
+  "priceMd": 10.99,
+  "priceLg": 11.99,
+  "toppings": [
+    {
+      "image": "/cherry.png",
+      "name": "cherry tomatoes",
+      "price": 2,
+      "_id": {
+        "$oid": "6650e5f6720fe80126f46aff"
+      }
+    },
+    {
+      "image": "/corn.png",
+      "name": "corn",
+      "price": 2,
+      "_id": {
+        "$oid": "6650e5f6720fe80126f46b00"
+      }
+    },
+    {
+      "image": "/fresh-tomatoes.png",
+      "name": "fresh tomatoes",
+      "price": 2,
+      "_id": {
+        "$oid": "6650e5f6720fe80126f46b01"
+      }
+    },
+    {
+      "image": "/jalapeno.png",
+      "name": "jalapeno",
+      "price": 2,
+      "_id": {
+        "$oid": "6650e5f6720fe80126f46b02"
+      }
+    },
+    {
+      "image": "/parmesan.png",
+      "name": "parmesan",
+      "price": 2,
+      "_id": {
+        "$oid": "6650e5f6720fe80126f46b03"
+      }
+    }
+  ],
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6650e677720fe80126f46b6d"
+  },
+  "id": 6,
+  "name": "pepperoni",
+  "description": "Pepperoni pizza is a popular variety featuring a classic pizza base topped with tomato sauce, mozzarella cheese, and slices of pepperoni, a type of spicy Italian-American sausage. It's known for its bold and savory flavor, with the pepperoni adding a hint of spice to the pizza.",
+  "image": "/pepperoni.webp",
+  "priceSm": 10.99,
+  "priceMd": 11.99,
+  "priceLg": 12.99,
+  "toppings": [
+    {
+      "image": "/cherry.png",
+      "name": "cherry tomatoes",
+      "price": 2,
+      "_id": {
+        "$oid": "6650e677720fe80126f46b6e"
+      }
+    },
+    {
+      "image": "/corn.png",
+      "name": "corn",
+      "price": 2,
+      "_id": {
+        "$oid": "6650e677720fe80126f46b6f"
+      }
+    },
+    {
+      "image": "/fresh-tomatoes.png",
+      "name": "fresh tomatoes",
+      "price": 2,
+      "_id": {
+        "$oid": "6650e677720fe80126f46b70"
+      }
+    },
+    {
+      "image": "/jalapeno.png",
+      "name": "jalapeno",
+      "price": 2,
+      "_id": {
+        "$oid": "6650e677720fe80126f46b71"
+      }
+    },
+    {
+      "image": "/parmesan.png",
+      "name": "parmesan",
+      "price": 2,
+      "_id": {
+        "$oid": "6650e677720fe80126f46b72"
+      }
+    }
+  ],
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6650e6cb720fe80126f46bf0"
+  },
+  "id": 7,
+  "name": "four cheese",
+  "description": "four cheese pizza, is an Italian pizza topped with a combination of four types of cheese. Common cheeses used in this pizza include mozzarella, gorgonzola, fontina, and Parmesan or provolone. The combination of these cheeses creates a rich and indulgent flavor profile, making it a favorite for cheese lovers.",
+  "image": "/quattro-formaggi.webp",
+  "priceSm": 12.99,
+  "priceMd": 13.99,
+  "priceLg": 14.99,
+  "toppings": [
+    {
+      "image": "/cherry.png",
+      "name": "cherry tomatoes",
+      "price": 2,
+      "_id": {
+        "$oid": "6650e6cb720fe80126f46bf1"
+      }
+    },
+    {
+      "image": "/corn.png",
+      "name": "corn",
+      "price": 2,
+      "_id": {
+        "$oid": "6650e6cb720fe80126f46bf2"
+      }
+    },
+    {
+      "image": "/fresh-tomatoes.png",
+      "name": "fresh tomatoes",
+      "price": 2,
+      "_id": {
+        "$oid": "6650e6cb720fe80126f46bf3"
+      }
+    },
+    {
+      "image": "/jalapeno.png",
+      "name": "jalapeno",
+      "price": 2,
+      "_id": {
+        "$oid": "6650e6cb720fe80126f46bf4"
+      }
+    },
+    {
+      "image": "/parmesan.png",
+      "name": "parmesan",
+      "price": 2,
+      "_id": {
+        "$oid": "6650e6cb720fe80126f46bf5"
+      }
+    }
+  ],
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6650e716720fe80126f46bf7"
+  },
+  "id": 8,
+  "name": "four seasons",
+  "description": "four seasons pizza, is an Italian pizza divided into four sections, each representing a different season of the year. Typically, these sections are topped with ingredients that reflect the flavors associated with each season. Common toppings include mushrooms for autumn, artichokes for spring, olives for summer, and ham or prosciutto for winter.",
+  "image": "/quattro-stagioni.webp",
+  "priceSm": 11.99,
+  "priceMd": 12.99,
+  "priceLg": 13.99,
+  "toppings": [
+    {
+      "image": "/cherry.png",
+      "name": "cherry tomatoes",
+      "price": 2,
+      "_id": {
+        "$oid": "6650e716720fe80126f46bf8"
+      }
+    },
+    {
+      "image": "/corn.png",
+      "name": "corn",
+      "price": 2,
+      "_id": {
+        "$oid": "6650e716720fe80126f46bf9"
+      }
+    },
+    {
+      "image": "/fresh-tomatoes.png",
+      "name": "fresh tomatoes",
+      "price": 2,
+      "_id": {
+        "$oid": "6650e716720fe80126f46bfa"
+      }
+    },
+    {
+      "image": "/jalapeno.png",
+      "name": "jalapeno",
+      "price": 2,
+      "_id": {
+        "$oid": "6650e716720fe80126f46bfb"
+      }
+    },
+    {
+      "image": "/parmesan.png",
+      "name": "parmesan",
+      "price": 2,
+      "_id": {
+        "$oid": "6650e716720fe80126f46bfc"
+      }
+    }
+  ],
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6650e74b720fe80126f46bfe"
+  },
+  "id": 9,
+  "name": "Tuna pizza",
+  "description": "Tuna pizza is a delicious dish that features a classic pizza base topped with tomato sauce, mozzarella cheese, and chunks of tuna fish. It's often complemented with ingredients like red onions, olives, and sometimes capers or parsley for added flavor. Tuna pizza offers a savory and slightly briny taste, making it a popular choice for seafood lovers.",
+  "image": "/tonno.webp",
+  "priceSm": 10.99,
+  "priceMd": 11.99,
+  "priceLg": 12.99,
+  "toppings": [
+    {
+      "image": "/cherry.png",
+      "name": "cherry tomatoes",
+      "price": 2,
+      "_id": {
+        "$oid": "6650e74b720fe80126f46bff"
+      }
+    },
+    {
+      "image": "/corn.png",
+      "name": "corn",
+      "price": 2,
+      "_id": {
+        "$oid": "6650e74b720fe80126f46c00"
+      }
+    },
+    {
+      "image": "/fresh-tomatoes.png",
+      "name": "fresh tomatoes",
+      "price": 2,
+      "_id": {
+        "$oid": "6650e74b720fe80126f46c01"
+      }
+    },
+    {
+      "image": "/jalapeno.png",
+      "name": "jalapeno",
+      "price": 2,
+      "_id": {
+        "$oid": "6650e74b720fe80126f46c02"
+      }
+    },
+    {
+      "image": "/parmesan.png",
+      "name": "parmesan",
+      "price": 2,
+      "_id": {
+        "$oid": "6650e74b720fe80126f46c03"
+      }
+    }
+  ],
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6650e783720fe80126f46c05"
+  },
+  "id": 10,
+  "name": "vegetarian",
+  "description": "Vegetarian pizza is a pizza variant that excludes meat and seafood toppings, catering to individuals who follow a vegetarian diet. Instead of meat, it typically features a variety of vegetables as toppings, such as bell peppers, onions, mushrooms, olives, tomatoes, and sometimes spinach or artichokes.",
+  "image": "/vegetarian.webp",
+  "priceSm": 9.99,
+  "priceMd": 10.99,
+  "priceLg": 11.99,
+  "toppings": [
+    {
+      "image": "/cherry.png",
+      "name": "cherry tomatoes",
+      "price": 2,
+      "_id": {
+        "$oid": "6650e783720fe80126f46c06"
+      }
+    },
+    {
+      "image": "/corn.png",
+      "name": "corn",
+      "price": 2,
+      "_id": {
+        "$oid": "6650e783720fe80126f46c07"
+      }
+    },
+    {
+      "image": "/fresh-tomatoes.png",
+      "name": "fresh tomatoes",
+      "price": 2,
+      "_id": {
+        "$oid": "6650e783720fe80126f46c08"
+      }
+    },
+    {
+      "image": "/jalapeno.png",
+      "name": "jalapeno",
+      "price": 2,
+      "_id": {
+        "$oid": "6650e783720fe80126f46c09"
+      }
+    },
+    {
+      "image": "/parmesan.png",
+      "name": "parmesan",
+      "price": 2,
+      "_id": {
+        "$oid": "6650e783720fe80126f46c0a"
+      }
+    }
+  ],
+  "__v": 0
+}]

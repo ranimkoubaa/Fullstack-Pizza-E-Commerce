@@ -1,0 +1,17 @@
+[{
+  "_id": {
+    "$oid": "6631490d51129a2f174774fd"
+  },
+  "name": "ranim",
+  "email": "ranim.koubaa@gmail.com",
+  "password": "$2b$10$xiCj8REWXcZn2kJ2U4LnOO5FhBK.2G8jco6nBQHkGGHKcYIH3A5eu",
+  "role": "admin",
+  "avatar": "https://static.vecteezy.com/ti/vecteur-libre/p3/3483457-avatar-femme-portrait-d-une-jeune-femme-dans-un-style-retro-vectoriel.jpg",
+  "createdAt": {
+    "$date": "2024-04-30T19:39:57.615Z"
+  },
+  "updatedAt": {
+    "$date": "2024-04-30T19:39:57.615Z"
+  },
+  "__v": 0
+}]

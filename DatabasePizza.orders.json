@@ -1,0 +1,44 @@
+[{
+  "_id": {
+    "$oid": "66511188a2ba99ad73c8d042"
+  },
+  "customerName": "ranim",
+  "items": [
+    {
+      "name": "capricciosa",
+      "image": "/capricciosa.webp",
+      "quantity": 1,
+      "price": 9.99,
+      "_id": {
+        "$oid": "66511188a2ba99ad73c8d043"
+      }
+    }
+  ],
+  "totalAmount": 9.99,
+  "createdAt": {
+    "$date": "2024-05-24T22:15:36.418Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6651a031a2ba99ad73c8e4c7"
+  },
+  "customerName": "ranim",
+  "items": [
+    {
+      "name": "cheesy",
+      "image": "/cheesy.webp",
+      "quantity": 2,
+      "price": 31.98,
+      "_id": {
+        "$oid": "6651a031a2ba99ad73c8e4c8"
+      }
+    }
+  ],
+  "totalAmount": 31.98,
+  "createdAt": {
+    "$date": "2024-05-25T08:24:17.400Z"
+  },
+  "__v": 0
+}]
